@@ -4,9 +4,10 @@
   "description": "Color theme inspired by the character Rebecca in Cyber punk anime",
   "version": "0.0.1",
   "publisher": "LazzyE",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR-USERNAME/cyberpunk-rebecca-color-theme"
+    "url": "https://github.com/ErliCai/cyberpunk-rebecca-color-theme"
   },
   "engines": {
     "vscode": "^1.109.0"
