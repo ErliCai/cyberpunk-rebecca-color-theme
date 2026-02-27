@@ -2,6 +2,10 @@
 
 A VS Code color theme inspired by the character Rebecca from Cyberpunk: Edgerunners.
 
+## Preview
+
+![Theme Preview](images/HowItLooks.png)
+
 ## How to Use
 
 1. Click on the **Settings** icon (⚙️) in VS Code.
