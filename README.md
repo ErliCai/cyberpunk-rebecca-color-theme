@@ -1,16 +1,20 @@
-# cyberpunk-rebecca-color-theme README
+# Cyberpunk Rebecca Color Theme
 
-## Working with Markdown
+A VS Code color theme inspired by the character Rebecca from Cyberpunk: Edgerunners.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## How to Use
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Click on the **Settings** icon (⚙️) in VS Code.
+2. Hover your cursor over **Themes**, then select **Color Theme**.
 
-## For more information
+   ![How to change theme](images/HowToChangeTheme.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+3. Select **CyperpunkRebecca** from the list of themes.
+
+   ![Select theme](images/SelectTheme.png)
+
+## Disclaimer
+
+This extension is a fan project and is not affiliated with CD Projekt Red or Studio Trigger.
 
 **Enjoy!**
